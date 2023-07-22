@@ -116,5 +116,5 @@ def result(message, lst):
         bot.send_message(message.chat.id, 'Введите команду /start чтобы начать заново')
 
 
-#/
+#//
 bot.infinity_polling()
